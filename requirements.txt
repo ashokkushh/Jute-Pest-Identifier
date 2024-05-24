@@ -1,0 +1,5 @@
+Flask==3.0.3
+gevent==24.2.1
+keras==3.2.1
+numpy==1.26.4
+Werkzeug==3.0.3
